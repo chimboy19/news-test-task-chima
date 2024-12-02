@@ -1,0 +1,23 @@
+ *{
+    margin: 0;
+    box-sizing: border-box;
+ }
+ 
+ 
+ .adjus{
+    width: 100%;
+    border: 2px solid red;
+    padding-inline: 20px;
+    /* text-align: center; */
+    line-height:2;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+
+}
+
+.but{
+    display: flex;
+    margin-top: 20px;
+    gap:0.5rem ;
+}

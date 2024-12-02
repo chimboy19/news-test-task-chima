@@ -1,0 +1,22 @@
+.adjust{
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.but{
+    display: flex;
+    margin-top: 20px;
+    gap:0.5rem ;
+}
+
+.news-item{
+    background: rgb(248, 245, 245);
+    padding-inline: 20px;
+    margin-block: 30px;
+    padding-bottom: 20px;
+    width: fit-content;
+}

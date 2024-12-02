@@ -1,0 +1,24 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 30pX;
+    padding-block: 30px;
+    width: 100%;
+    margin-bottom: 30px;
+    height:75px;
+    background-color: black;
+}
+.logo{
+    color: white;
+}
+
+.navlinks{
+    display: flex;
+    gap: 1rem;
+
+}
+
+ul Link{
+    text-decoration: none;
+
+}

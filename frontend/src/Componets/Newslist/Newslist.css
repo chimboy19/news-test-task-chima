@@ -1,0 +1,24 @@
+.adjust{
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.but{
+    display: flex;
+    margin-top: 20px;
+    gap:0.5rem ;
+}
+
+.news-item{
+    background: rgb(248, 245, 245);
+    padding-inline: 20px;
+    /* border: 2px solid red; */
+    margin-block: 30px;
+    padding-bottom: 20px;
+    width: 100px;
+}
